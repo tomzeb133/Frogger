@@ -1,2 +1,2 @@
 # Frogger
-My Arcade Game for College Project
+My arcade game in C++ for college project
